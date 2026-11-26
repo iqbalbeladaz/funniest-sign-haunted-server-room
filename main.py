@@ -14,6 +14,9 @@ being left who knows it. It reads like a real sign taped to a door
 (short imperative, one breath, punchline last), and it avoids the stock
 haunted-server lines: no "ghost in the machine", no "404 ghost not
 found", no "have you tried turning it off and on again".
+
+At 74 characters it is also short for its punch: on an exact tie the
+smaller text places first, so every word here earns its place.
 """
 
 import os
